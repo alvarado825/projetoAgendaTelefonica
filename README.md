@@ -1,2 +1,2 @@
 # projetoAgendaTelefonica
-Agenda telefônica escrita em Python usando SQLite como base de dados
+Agenda telefônica escrita em Python e usando SQLite como base de dados
